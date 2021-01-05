@@ -4,7 +4,7 @@
   "description": "LIRI will be able to search Spotify for songs, Bands in Town for concerts and OMDB for movies by adding either argument (Spotify-this-Song, Movie-this, concert-this and Do-what it says) and the band, song or movie you would like to search about. This app will output the artists, venue and movie name. Along with the date of the concert and year the movie came out.  A video of how the app is used is in my GitHub Repository.",
   "main": "keys.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "fs": "^0.0.1-security",
     "moment": "^2.24.0",
